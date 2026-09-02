@@ -38,15 +38,15 @@ header {
     background-color: #464646;
 }
 
-.menu-hamburguer i {
+.menu-hamburguer #icone {
     font-size: 1.2rem;
     color: #ccc;
 }
 
-.menu-hamburguer:hover i {
+.menu-hamburguer:hover #icone {
     color: red;
 }
 
-.menu-hamburguer i:hover {
+.menu-hamburguer #icone:hover {
     color: green;
 }
