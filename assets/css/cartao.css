@@ -69,6 +69,9 @@
     margin-top: 1rem;
     text-align: center;
     text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+
 }
 
 .botao-do-cartao:hover {
@@ -78,4 +81,5 @@
 
 .botao-do-cartao:hover .icone-final{
     opacity: 1;
+    justify-content: flex-end;
 }
