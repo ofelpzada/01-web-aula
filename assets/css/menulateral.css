@@ -25,3 +25,20 @@ li {
     color: black;
     box-shadow: 0.3rem, 0.3rem, 0.3rem, 0.01rem, #ddd;
 }
+
+.opcao:hover .rotulo {
+    text-align: right;
+}
+
+opcao:hover .icone-final {
+    opacity: 1;
+}
+
+.icone-inicial {
+    width: 1.5rem;
+}
+
+.rotulo {
+    flex: 1;
+}
+
