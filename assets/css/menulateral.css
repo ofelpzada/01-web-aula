@@ -23,14 +23,14 @@ li {
 .opcao:hover {
     background-color: #ccc;
     color: black;
-    box-shadow: 0.3rem, 0.3rem, 0.3rem, 0.01rem, #ddd;
+    box-shadow: 0.3rem 0.3rem 0.3rem 0.01rem #ddd;
 }
 
 .opcao:hover .rotulo {
     text-align: right;
 }
 
-opcao:hover .icone-final {
+.opcao:hover .icone-final {
     opacity: 1;
 }
 
