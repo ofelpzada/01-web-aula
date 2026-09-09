@@ -1,5 +1,5 @@
 nav {
-    width: 10rem;
+    width: 15rem;
     background-color: #eee;
     padding: .5rem;
 }
@@ -12,3 +12,16 @@ li {
     margin-bottom: 1rem;
 }
 
+.opcao {
+    display: flex;
+    border-radius: 0.5rem;
+    padding: 0.6rem;
+    background-color: #ddd;
+    color: #5e5e5e;
+}
+
+.opcao:hover {
+    background-color: #ccc;
+    color: black;
+    box-shadow: 0.3rem, 0.3rem, 0.3rem, 0.01rem, #ddd;
+}
