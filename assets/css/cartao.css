@@ -75,3 +75,7 @@
     background-color: #1818b0;
     color: white;
 }
+
+.botao-do-cartao:hover .icone-final{
+    opacity: 1;
+}
