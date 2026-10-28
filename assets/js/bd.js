@@ -1,4 +1,4 @@
 const usuario = {
-    "email" : "admin@email.com",
+    "email": "admin@email.com",
     "senha": "admin"
 }
