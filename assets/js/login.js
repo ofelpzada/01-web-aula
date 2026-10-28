@@ -1,5 +1,5 @@
-const email = "admin@email.com";
-const senha = "12345";
+const email = usuario.email;
+const senha = usuario.senha;
 
 function verificarCredencias () {
     const emailInformado = document.getElementById("email").value;
