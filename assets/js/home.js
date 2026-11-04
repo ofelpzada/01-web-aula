@@ -28,7 +28,7 @@ function apresentarNoticias() {
         cartao.className = "cartao";
 
         cartao.innerHTML = `
-        <img src ="${noticia.imagem} alt="${noticia.titulo} class="imagem-do-cartao">
+        <img src="${noticia.imagem}" alt="${noticia.titulo}" class="imagem-do-cartao">
         <section class="corpo-do-cartao">
         <h1 class="titulo-do-cartao">${noticia.titulo}</h1>
         <p class="classificacao">

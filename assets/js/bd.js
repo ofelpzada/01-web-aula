@@ -14,7 +14,7 @@ export const dados_das_noticias = [
     categoria: "Transporte",
     autor: "Ana Clara Pereira",
     data: "16/02/2026",
-    imagem: "/assets/img/mobilidade.png",
+    imagem: "./assets/img/mobilidade.png",
   },
   {
     id: 1,
@@ -36,7 +36,7 @@ export const dados_das_noticias = [
     categoria: "Cultura",
     autor: "Carla Vieira Grossi",
     data: "20/04/2026",
-    imagem: "./assets/img/festivaldemusica.png",
+    imagem: "./assets/img/festivalmusica.png",
   },
   {
     id: 3,
